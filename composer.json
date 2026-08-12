@@ -1,7 +1,0 @@
-{
-    "name": "portfolio/codebridge-school",
-    "description": "CODEBRIDGE (online school landing page portfolio piece). Static HTML served by Heroku's PHP buildpack.",
-    "type": "project",
-    "license": "proprietary",
-    "require": {}
-}
