@@ -1,0 +1,9 @@
+# Composerの依存関係（Herokuがデプロイ時に composer install を実行する）
+/vendor/
+
+# Claude Code のローカル設定（サイトの一部ではなく、公開もしない）
+/.claude/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
