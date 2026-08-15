@@ -50,7 +50,7 @@
 - [Swiper 11](https://swiperjs.com/)（CDN）— 受講生の声カルーセル
 - [AOS 2.3](https://michalsnik.github.io/aos/)（CDN）— スクロール連動アニメーション
 - Google Fonts（Sora / Noto Sans JP）
-- 画像は [Unsplash](https://unsplash.com/) からダウンロードし、`assets/img/` に同梱（オフラインでも表示可能）
+- 画像は [Unsplash](https://unsplash.com/) と [Pexels](https://www.pexels.com/) からダウンロードし、`assets/img/` に同梱（オフラインでも表示可能）
 
 ## 実装のポイント
 
@@ -79,4 +79,4 @@
 - 「給付金シミュレーター」は一般的な制度を参考にした試算表示で、給付を保証するものではありません。
   実際の対象可否・給付額は個人の雇用保険加入状況によって異なり、最終的にはハローワークの審査で確定します。
 - フォームは送信処理を持たないデモです（送信ボタンで完了メッセージのみ表示）。
-- `assets/img/` の画像は [Unsplash License](https://unsplash.com/license) の下で取得したフリー素材です（クレジット表記不要・商用利用可）。
+- `assets/img/` の画像は [Unsplash License](https://unsplash.com/license) および [Pexels License](https://www.pexels.com/license/) の下で取得したフリー素材です（クレジット表記不要・商用利用可）。

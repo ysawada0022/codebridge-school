@@ -592,6 +592,8 @@ ol {
   }
   .fv__image {
     aspect-ratio: 16 / 11;
+    /* 縦長の写真を横長に切るため、中央のままだと顔が切れる。上寄りに寄せる */
+    object-position: center 18%;
   }
   .fv__float {
     left: 12px;
